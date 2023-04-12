@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Hosted Agent
+  name: Azure Pipeline
 
 steps:
 - script: echo Hello, world!
