@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Azure Pipeline
+  name: windows-server2019
 
 steps:
 - script: echo Hello, world!
