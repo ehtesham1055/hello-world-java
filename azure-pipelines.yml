@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: linux-agent
+  name: Default
 
 steps:
 - script: echo Hello, world!
